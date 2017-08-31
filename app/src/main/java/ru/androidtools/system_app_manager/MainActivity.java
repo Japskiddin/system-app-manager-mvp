@@ -60,7 +60,8 @@ public class MainActivity extends AppCompatActivity
         progressBar = findViewById(R.id.progress_spinner);
         recyclerView = findViewById(R.id.recyclerView);
 
-        mainPresenter = new MainPresenterImpl(this, new AppsInteractorImpl());
+        mainPresenter = new MainPresenterImpl(new AppsInteractorImpl());
+        mainPresenter.attachView(this);
         mainPresenter.downloadApps(new GetAppsTask(this));
 
         DrawerLayout drawer = findViewById(R.id.drawer_layout);
@@ -279,13 +280,13 @@ public class MainActivity extends AppCompatActivity
 
     @Override
     protected void onStop() {
-        mainPresenter.onStop();
+        mainPresenter.clearQueue();
         super.onStop();
     }
 
     @Override
     public void onDestroy() {
-        mainPresenter.onDestroy();
+        mainPresenter.detachView();
         super.onDestroy();
     }
 

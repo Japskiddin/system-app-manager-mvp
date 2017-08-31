@@ -36,21 +36,25 @@ public class MainPresenterImpl implements MainPresenter {
     private int currentList = R.string.menu_installed;
     private List<AppInfo> mSelectedList;
 
-    public MainPresenterImpl(MainView mainView, AppsInteractor appsInteractor) {
-        this.mainView = mainView;
+    public MainPresenterImpl(AppsInteractor appsInteractor) {
         this.appsInteractor = appsInteractor;
         mAppsList = new ArrayList<>();
         mSelectedList = new ArrayList<>();
     }
 
     @Override
-    public void onDestroy() {
+    public void attachView(MainView mainView) {
+        this.mainView = mainView;
+    }
+
+    @Override
+    public void detachView() {
         mGetIconThread.quit();
         mainView = null;
     }
 
     @Override
-    public void onStop() {
+    public void clearQueue() {
         mGetIconThread.clearQueue();
     }
 
