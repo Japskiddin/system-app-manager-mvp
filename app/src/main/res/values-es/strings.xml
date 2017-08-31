@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Removedor de Aplicaciones del Sistema</string>
+    <string name="common_warning">Advertencia</string>
+    <string name="system_app_no_root_access">Necesitamos permisos root para remover aplicaciones del sistema, asegurate que tu dispositivo ha sido rooteado y concede permisos</string>
+    <string name="common_i_know">Lo se</string>
+    <string name="root_help_title">Ayuda Root</string>
+    <string name="app_name_label">Borrar</string>
+    <string name="clear">claro</string>
+    <string name="delete">Borrar</string>
+    <string name="deleting">Desinstalación</string>
+    <string name="loading">Cargando…</string>
+    <string name="menu_communicate">Comunicar</string>
+    <string name="menu_installed">Instalado</string>
+    <string name="menu_send">Enviar</string>
+    <string name="menu_settings">Ajustes</string>
+    <string name="menu_share">Compartir</string>
+    <string name="menu_system">Sistema</string>
+    <string name="navigation_drawer_close">Cerrar el cajón de navegación</string>
+    <string name="navigation_drawer_open">Abrir el cajón de navegación</string>
+    <string name="remove_sys_app_chkbox">No mostrar de nuevo</string>
+    <string name="remove_sys_app_message">Después de quitar las aplicaciones del sistema, puede que tenga que reiniciar el dispositivo</string>
+    <string name="search_hint">Buscando…</string>
+    <string name="send_message">Buena aplicación para eliminar aplicaciones no necesarias</string>
+    <string name="send_title">Enviar a través de</string>
+    <string name="settings_empty">Configuración mientras está vacía</string>
+    <string name="share_title">Compartir vía</string>
+    <string name="menu_other_apps">Otras aplicaciones</string>
+    <string name="wiki_url">https://android-tools.ru/es/gestor-de-aplicaciones/</string>
+    <string name="error_missing_market">Instale el almacén de aplicaciones</string>
+    <string name="error_missing_browser">Instala la aplicación para ver las páginas web</string>
+</resources>

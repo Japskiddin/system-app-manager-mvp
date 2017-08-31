@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="app_name">Removedor Seguro de Aplicativos de Sistema</string>
+    <string name="common_warning">Atenção</string>
+    <string name="system_app_no_root_access">É necessário acesso root para desinstalar aplicativos de sistema, certifique-se de que seu aparelho é rooteado e conceda permissão</string>
+    <string name="common_i_know">Eu sei</string>
+    <string name="root_help_title">Ajuda Root</string>
+    <string name="app_name_label">Excluir</string>
+    <string name="clear">Claro</string>
+    <string name="delete">Excluir</string>
+    <string name="deleting">Desinstalação</string>
+    <string name="loading">Carregando…</string>
+    <string name="menu_communicate">Comunicar</string>
+    <string name="menu_installed">Instalado</string>
+    <string name="menu_send">Enviar</string>
+    <string name="menu_settings">Configurações</string>
+    <string name="menu_share">Compartilhar</string>
+    <string name="menu_system">Sistema</string>
+    <string name="navigation_drawer_close">Fechar a gaveta de navegação</string>
+    <string name="navigation_drawer_open">Abrir a gaveta de navegação</string>
+    <string name="remove_sys_app_chkbox">Não mostrar novamente</string>
+    <string name="remove_sys_app_message">Depois de remover os aplicativos do sistema, talvez seja necessário reinicializar o dispositivo</string>
+    <string name="search_hint">Procurando…</string>
+    <string name="send_message">Bom aplicativo para remover aplicativos não necessários</string>
+    <string name="send_title">Envie via</string>
+    <string name="settings_empty">Seção de configurações enquanto vazio</string>
+    <string name="share_title">Compartilhar via</string>
+    <string name="menu_other_apps">Outras aplicações</string>
+    <string name="wiki_url">https://android-tools.ru/pt/gerenciador-de-aplicativos/</string>
+    <string name="error_missing_market">Instale a loja de aplicativos</string>
+    <string name="error_missing_browser">Instale o aplicativo para visualizar as páginas da Web</string>
+</resources>
+
+

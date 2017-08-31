@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">System Apps sicher entfernen</string>
+    <string name="common_warning">Warnung</string>
+    <string name="system_app_no_root_access">Wir brauchen Root-Berechtigungen um System-Apps zu deinstallieren, bitte prüfe, ob das Gerät gerootet ist und gib uns Berechtigungen.</string>
+    <string name="common_i_know">Ausblenden</string>
+    <string name="root_help_title">Root-Hilfe</string>
+    <string name="app_name_label">Löschen</string>
+    <string name="clear">claro</string>
+    <string name="delete">Löschen</string>
+    <string name="deleting">Deinstallieren</string>
+    <string name="loading">Laden…</string>
+    <string name="menu_communicate">Kommunizieren</string>
+    <string name="menu_installed">Installiert</string>
+    <string name="menu_send">Senden</string>
+    <string name="menu_settings">Einstellungen</string>
+    <string name="menu_share">Aktie</string>
+    <string name="menu_system">System</string>
+    <string name="navigation_drawer_close">Schliessschloss schließen</string>
+    <string name="navigation_drawer_open">Öffnen Sie die Schublade</string>
+    <string name="remove_sys_app_chkbox">Nicht wieder zeigen</string>
+    <string name="remove_sys_app_message">Nachdem Sie System-Apps entfernt haben, müssen Sie das Gerät möglicherweise neu starten</string>
+    <string name="search_hint">Suchen …</string>
+    <string name="send_message">Gute App, um nicht benötigte Apps zu entfernen</string>
+    <string name="send_title">Senden via</string>
+    <string name="settings_empty">Einstellungsbereich ist leer</string>
+    <string name="share_title">Teilen per</string>
+    <string name="menu_other_apps">Andere Anwendungen</string>
+    <string name="wiki_url">https://android-tools.ru/en/system-app-manager-en/</string>
+    <string name="error_missing_market">Bitte installieren Sie den Anwendungsspeicher</string>
+    <string name="error_missing_browser">Bitte installieren Sie die Anwendung, um die Webseiten anzuzeigen</string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">System App Safe Remover</string>
+    <string name="common_warning">Cảnh báo</string>
+    <string name="system_app_no_root_access">Chúng tôi cần can thiệp sâu vào hệ thống, hãy chắc rằng thiết bị của bạn đã root và cấp quyền truy cập cho phần mềm</string>
+    <string name="common_i_know">Đã biết</string>
+    <string name="root_help_title">Trợ giúp quyền root</string>
+    <string name="app_name_label">Xóa bỏ</string>
+    <string name="clear">trong sáng</string>
+    <string name="delete">Xóa bỏ</string>
+    <string name="deleting">Gỡ cài đặt</string>
+    <string name="loading">Tải…</string>
+    <string name="menu_communicate">Giao tiếp</string>
+    <string name="menu_installed">Cài đặt</string>
+    <string name="menu_send">Gửi</string>
+    <string name="menu_settings">Cài đặt</string>
+    <string name="menu_share">Chia sẻ</string>
+    <string name="menu_system">Hệ thống</string>
+    <string name="navigation_drawer_close">Đóng ngăn điều khiển điều hướng</string>
+    <string name="navigation_drawer_open">Mở ngăn điều hướng</string>
+    <string name="remove_sys_app_chkbox">Không hiển thị lại</string>
+    <string name="remove_sys_app_message">Sau khi gỡ bỏ các ứng dụng hệ thống, bạn có thể phải khởi động lại thiết bị</string>
+    <string name="search_hint">Đang tìm kiếm…</string>
+    <string name="send_message">Ứng dụng tốt để xóa các ứng dụng không cần thiết</string>
+    <string name="send_title">Gửi qua</string>
+    <string name="settings_empty">Phần Cài đặt khi trống</string>
+    <string name="share_title">Chia sẻ qua</string>
+    <string name="menu_other_apps">Các ứng dụng khác</string>
+    <string name="wiki_url">https://android-tools.ru/en/system-app-manager-en/</string>
+    <string name="error_missing_browser">Hãy cài đặt ứng dụng để xem các trang web</string>
+    <string name="error_missing_market">Vui lòng cài đặt cửa hàng ứng dụng</string>
+</resources>

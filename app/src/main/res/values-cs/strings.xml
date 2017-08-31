@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">System App Safe Remover</string>
+    <string name="common_warning">Upozornění</string>
+    <string name="system_app_no_root_access">Potřebujete root oprávnění pro odinstalování systémové aplikace, zkontrolujte zda má vaše zařízení root</string>
+    <string name="common_i_know">Já vím</string>
+    <string name="root_help_title">Root nápověda</string>
+    <string name="app_name_label">Vymazat</string>
+    <string name="clear">Průhledná</string>
+    <string name="delete">Vymazat</string>
+    <string name="deleting">Odinstalování</string>
+    <string name="loading">Načítání…</string>
+    <string name="menu_communicate">Komunikovat</string>
+    <string name="menu_installed">Instalováno</string>
+    <string name="menu_send">Poslat</string>
+    <string name="menu_settings">Nastavení</string>
+    <string name="menu_share">Podíl</string>
+    <string name="menu_system">Systém</string>
+    <string name="navigation_drawer_close">Zavřete navigační zásuvku</string>
+    <string name="navigation_drawer_open">Otevřete navigační zásuvku</string>
+    <string name="remove_sys_app_chkbox">Nezobrazovat znovu</string>
+    <string name="remove_sys_app_message">Po odebrání systémových aplikací budete muset restartovat zařízení</string>
+    <string name="search_hint">Hledání …</string>
+    <string name="send_message">Dobrá aplikace k odstranění nepotřebných aplikací</string>
+    <string name="send_title">Odeslat přes</string>
+    <string name="settings_empty">Část nastavení je prázdná</string>
+    <string name="share_title">Sdílet přes</string>
+    <string name="menu_other_apps">Jiné aplikace</string>
+    <string name="wiki_url">https://android-tools.ru/en/system-app-manager-en/</string>
+    <string name="error_missing_market">Nainstalujte prosím úložiště aplikací</string>
+    <string name="error_missing_browser">Pro zobrazení webových stránek nainstalujte aplikaci</string>
+</resources>

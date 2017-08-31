@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Biztonságos rendszer alkalmazás eltávolító</string>
+    <string name="common_warning">Figyelmeztetés</string>
+    <string name="system_app_no_root_access">Rendszer alkalmazás eltávolításhoz szükség van root jogosultságra. Győződj meg róla, hogy a készüléked rendelkezik jogosultsággal és hozzáféréssel!</string>
+    <string name="common_i_know">Ismerem</string>
+    <string name="root_help_title">Root súgó</string>
+    <string name="app_name_label">Töröl</string>
+    <string name="clear">egyértelmű</string>
+    <string name="delete">Töröl</string>
+    <string name="deleting">Eltávolítás</string>
+    <string name="loading">Betöltés…</string>
+    <string name="menu_communicate">Kommunikálni</string>
+    <string name="menu_installed">Telepítve van</string>
+    <string name="menu_send">Elküld</string>
+    <string name="menu_settings">Beállítások</string>
+    <string name="menu_share">Ossza meg</string>
+    <string name="menu_system">Rendszer</string>
+    <string name="navigation_drawer_close">Zárja be a navigációs fiókot</string>
+    <string name="navigation_drawer_open">Nyissa meg a navigációs fiókot</string>
+    <string name="remove_sys_app_chkbox">Ne mutasd meg újra</string>
+    <string name="remove_sys_app_message">A rendszeralkalmazások eltávolítása után előfordulhat, hogy újra kell indítania az eszközt</string>
+    <string name="search_hint">Keresés…</string>
+    <string name="send_message">Jó alkalmazás a nem szükséges alkalmazások eltávolításához</string>
+    <string name="send_title">Küldés</string>
+    <string name="settings_empty">Beállítások rész üresen</string>
+    <string name="share_title">Megosztás keresztül</string>
+    <string name="menu_other_apps">Egyéb alkalmazások</string>
+    <string name="wiki_url">https://android-tools.ru/en/system-app-manager-en/</string>
+    <string name="error_missing_browser">Telepítse az alkalmazást a weboldalak megtekintéséhez</string>
+    <string name="error_missing_market">Telepítse az alkalmazás tárolóját</string>
+</resources>

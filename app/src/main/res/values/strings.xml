@@ -1,0 +1,45 @@
+<resources>
+
+    <!-- Main Activity start-->
+    <string name="app_name">System app manager</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="search_hint">Searching…</string>
+    <string name="share_text" translatable="false">https://play.google.com/store/apps/details?id=ru.androidtools.system_app_manager</string>
+    <string name="share_title">Share via</string>
+    <string name="settings_empty">Settings section while empty</string>
+    <string name="loading">Loading…</string>
+    <string name="system_app_no_root_access">We need root permissions to uninstall system app, make sure your device is rooted, and give us permissions</string>
+    <string name="common_warning">Warning</string>
+    <string name="common_i_know">I know</string>
+    <string name="menu_other_apps">Other applications</string>
+    <string name="wiki" translatable="false">Wiki</string>
+    <string name="wiki_url">https://android-tools.ru/en/system-app-manager-en/</string>
+    <string name="error_missing_browser">Please install the application to view the web pages</string>
+    <string name="error_missing_market">Please install the application store</string>
+    <!-- Main Activity end-->
+
+    <!-- Detail Activity start-->
+    <string name="menu_system">System</string>
+    <string name="menu_settings">Settings</string>
+    <string name="delete">delete</string>
+    <string name="clear">clear</string>
+    <string name="deleting">Uninstalling</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="menu_communicate">Communicate</string>
+    <!-- Detail Activity end-->
+
+    <!--Root help start-->
+    <string name="root_help_title">Root help</string>
+    <string name="send_title">Send via</string>
+    <string name="remove_sys_app_chkbox">Don\'t show again</string>
+    <string name="remove_sys_app_message">After you remove system apps you may have to reboot the device</string>
+    <string name="app_name_label">Delete</string>
+    <string name="menu_installed">Installed</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="send_message">Good app to remove not needed apps</string>
+
+    <!--Root help end-->
+
+
+</resources>

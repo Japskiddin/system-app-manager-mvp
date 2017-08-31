@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">System App Safe Remover</string>
+    <string name="common_warning">Uyarı</string>
+    <string name="system_app_no_root_access">Sistem uygulamalarını kaldırabilmek için root izinlerine ihtiyacımız var. Cihazınızın rootlu olduğundan emin olun ve uygulamaya izinleri verin</string>
+    <string name="common_i_know">Biliyorum</string>
+    <string name="root_help_title">Root yardımı</string>
+    <string name="app_name_label">Sil</string>
+    <string name="clear">açık</string>
+    <string name="delete">Sil</string>
+    <string name="deleting">Kaldırılıyor</string>
+    <string name="loading">Yükleniyor…</string>
+    <string name="menu_communicate">İletişim kurmak</string>
+    <string name="menu_installed">Yüklü</string>
+    <string name="menu_send">Gönder</string>
+    <string name="menu_settings">Ayarlar</string>
+    <string name="menu_share">Pay</string>
+    <string name="menu_system">Sistem</string>
+    <string name="navigation_drawer_close">Gezinme çekmecesini kapat</string>
+    <string name="navigation_drawer_open">Gezinme çekmecesini aç</string>
+    <string name="remove_sys_app_chkbox">Tekrar gösterme</string>
+    <string name="remove_sys_app_message">Sistem uygulamalarını kaldırdıktan sonra cihazı yeniden başlatmanız gerekebilir.</string>
+    <string name="search_hint">Arama…</string>
+    <string name="send_message">Gerekli uygulamaları kaldırmak için iyi bir uygulama</string>
+    <string name="send_title">Yoluyla Gönder</string>
+    <string name="settings_empty">Boşken ayarlar bölümü</string>
+    <string name="share_title">Üzerinden paylaş</string>
+    <string name="menu_other_apps">Diğer uygulamalar</string>
+    <string name="wiki_url">https://android-tools.ru/en/system-app-manager-en/</string>
+    <string name="error_missing_browser">Lütfen web sayfalarını görüntülemek için uygulamayı yükleyin</string>
+    <string name="error_missing_market">Lütfen uygulama deposunu yükleyin</string>
+</resources>

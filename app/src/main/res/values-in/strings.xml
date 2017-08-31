@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">System App Safe Remover</string>
+    <string name="common_warning">PERINGATAN</string>
+    <string name="system_app_no_root_access">kami memerlukan izin root untuk mencabut pemasangan aplikasi sistem, pastikan perangkat anda telah diroot, dan berikan kami izin</string>
+    <string name="common_i_know">Saya tahu</string>
+    <string name="root_help_title">Bantuan Root</string>
+    <string name="app_name_label">Menghapus</string>
+    <string name="clear">bersih</string>
+    <string name="delete">Menghapus</string>
+    <string name="deleting">Mencopot pemasangan</string>
+    <string name="loading">Pemuatan…</string>
+    <string name="menu_communicate">Menyampaikan</string>
+    <string name="menu_installed">Dipasang</string>
+    <string name="menu_send">Kirim</string>
+    <string name="menu_settings">Pengaturan</string>
+    <string name="menu_share">Bagikan</string>
+    <string name="menu_system">Sistem</string>
+    <string name="navigation_drawer_close">Tutup laci navigasi</string>
+    <string name="navigation_drawer_open">Buka laci navigasi</string>
+    <string name="remove_sys_app_chkbox">Jangan tampilkan lagi</string>
+    <string name="remove_sys_app_message">Setelah Anda menghapus aplikasi sistem Anda mungkin harus melakukan boot ulang perangkat</string>
+    <string name="search_hint">Mencari…</string>
+    <string name="send_message">Aplikasi yang bagus untuk menghapus aplikasi yang tidak dibutuhkan</string>
+    <string name="send_title">Kirim via</string>
+    <string name="settings_empty">Bagian pengaturan saat kosong</string>
+    <string name="share_title">Bagikan via</string>
+    <string name="menu_other_apps">Aplikasi lainnya</string>
+    <string name="wiki_url">https://android-tools.ru/en/system-app-manager-en/</string>
+    <string name="error_missing_browser">Pasang aplikasi untuk melihat halaman web</string>
+    <string name="error_missing_market">Harap instal toko aplikasi</string>
+</resources>

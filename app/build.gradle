@@ -1,0 +1,58 @@
+apply plugin: 'com.android.application'
+
+android {
+    signingConfigs {
+        release {
+            if (project.hasProperty("Keys.repo")) {
+                def projectPropsFile = file(project.property("Keys.repo") + "/system-app-manager.properties")
+                if (projectPropsFile.exists()) {
+                    Properties props = new Properties()
+                    props.load(new FileInputStream(projectPropsFile))
+
+                    storeFile file(file(project.property("Keys.repo") + props['RELEASE_STORE_FILE']))
+                    storePassword props['RELEASE_STORE_PASS']
+                    keyAlias props['RELEASE_ALIAS']
+                    keyPassword props['RELEASE_KEY_PASS']
+                }
+            } else {
+                println "======================================================="
+                println "[ERROR] - Please configure release-compilation environment - e.g. in ~/.signing  directory"
+                println "======================================================="
+            }
+        }
+    }
+
+    compileSdkVersion 26
+    buildToolsVersion "26.0.1"
+    defaultConfig {
+        applicationId "ru.androidtools.system_app_manager"
+        minSdkVersion 14
+        targetSdkVersion 26
+        versionCode 3
+        versionName "1.0.2"
+        signingConfig signingConfigs.release
+        vectorDrawables.useSupportLibrary = true // костыль векторов
+        setProperty("archivesBaseName", "$versionCode" + "_app")
+    }
+    buildTypes {
+        release {
+            minifyEnabled true
+            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    productFlavors {
+        // Define separate dev and prod flavors
+        dev21 {
+            minSdkVersion 21
+        }
+        prod {
+            // The actual minSdkVersion for the production app
+            minSdkVersion 14
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:design:26.0.0'
+}

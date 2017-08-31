@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Usuwanie Aplikacji Systemowych</string>
+    <string name="common_warning">Ostrzeżenie</string>
+    <string name="system_app_no_root_access">aby odinstalować aplikację systemową, konieczne jest przyznanie uprawnień administratora dla aplikacji. Upewnij się, że urządzenie jest zrootowane i przydziel uprawnienia root naszej aplikacji</string>
+    <string name="common_i_know">Wiem</string>
+    <string name="root_help_title">Co to jest root?</string>
+    <string name="app_name_label">Kasować</string>
+    <string name="clear">jasny</string>
+    <string name="delete">Kasować</string>
+    <string name="deleting">Odinstalowanie</string>
+    <string name="loading">Ładuję…</string>
+    <string name="menu_communicate">Komunikować się</string>
+    <string name="menu_installed">Zainstalowano</string>
+    <string name="menu_send">Wysłać</string>
+    <string name="menu_settings">Ustawienia</string>
+    <string name="menu_share">Dzielić</string>
+    <string name="menu_system">System</string>
+    <string name="navigation_drawer_close">Zamknij szufladę nawigacyjną</string>
+    <string name="navigation_drawer_open">Otwórz szufladę nawigacyjną</string>
+    <string name="remove_sys_app_chkbox">Nie pokazuj się ponownie</string>
+    <string name="remove_sys_app_message">Po usunięciu aplikacji systemowych może być konieczne ponowne uruchomienie urządzenia</string>
+    <string name="search_hint">Badawczy…</string>
+    <string name="send_message">Dobra aplikacja do usuwania nie potrzebnych aplikacji</string>
+    <string name="send_title">Wyślij przez</string>
+    <string name="settings_empty">Sekcja Ustawienia jest pusta</string>
+    <string name="share_title">Podziel się przez</string>
+    <string name="menu_other_apps">Inne zastosowania</string>
+    <string name="wiki_url">https://android-tools.ru/en/system-app-manager-en/</string>
+    <string name="error_missing_browser">Zainstaluj aplikację, aby wyświetlić strony internetowe</string>
+    <string name="error_missing_market">Zainstaluj sklep z aplikacjami</string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Désinstalleur App Sytème et Plus</string>
+    <string name="common_warning">Attention</string>
+    <string name="system_app_no_root_access">"Nécessite l'autorisation root pour la désinstallation, Assurez vous que votre appareil est rooté, et autorisez"</string>
+    <string name="common_i_know">Ne pas me rappeler</string>
+    <string name="root_help_title">Aide ROOT</string>
+    <string name="app_name_label">Effacer</string>
+    <string name="clear">clair</string>
+    <string name="delete">Effacer</string>
+    <string name="deleting">Désinstallation</string>
+    <string name="loading">Chargement…</string>
+    <string name="menu_communicate">Communiquer</string>
+    <string name="menu_installed">Telepítve van</string>
+    <string name="menu_send">Envoyer</string>
+    <string name="menu_settings">Paramètres</string>
+    <string name="menu_share">Partager</string>
+    <string name="menu_system">Système</string>
+    <string name="navigation_drawer_close">Fermer le tiroir de navigation</string>
+    <string name="navigation_drawer_open">Ouvrir le tiroir de navigation</string>
+    <string name="remove_sys_app_chkbox">Ne pas afficher à nouveau</string>
+    <string name="remove_sys_app_message">Après avoir supprimé les applications système, vous devrez peut-être redémarrer l\'appareil</string>
+    <string name="search_hint">Recherche…</string>
+    <string name="send_message">Bonne application pour supprimer les applications non nécessaires</string>
+    <string name="send_title">Envoyer via</string>
+    <string name="settings_empty">La section Paramètres est vide</string>
+    <string name="share_title">Partage via</string>
+    <string name="menu_other_apps">Autres applications</string>
+    <string name="wiki_url">https://android-tools.ru/en/system-app-manager-en/</string>
+    <string name="error_missing_market">Installez le magasin d\'applications</string>
+    <string name="error_missing_browser">Installez l\'application pour afficher les pages Web</string>
+</resources>

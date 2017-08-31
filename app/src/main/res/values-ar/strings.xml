@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مزيل تطبيقات النظام الامن</string>
+    <string name="common_warning">تحذير</string>
+    <string name="system_app_no_root_access">نحتاج الى ترخيص سوبر يوزر لازالة ملفات النظام, تأكد من ان جهازك فيه روت, واعطنا الترخيص</string>
+    <string name="common_i_know">اعلم هذا</string>
+    <string name="root_help_title">مساعدة في الروت</string>
+    <string name="app_name_label">حذف</string>
+    <string name="clear">واضح</string>
+    <string name="delete">حذف</string>
+    <string name="deleting">إلغاء التثبيت</string>
+    <string name="loading">جار التحميل…</string>
+    <string name="menu_communicate">نقل</string>
+    <string name="menu_installed">المثبتة</string>
+    <string name="menu_send">إرسال</string>
+    <string name="menu_settings">إعدادات</string>
+    <string name="menu_share">شارك</string>
+    <string name="menu_system">النظام</string>
+    <string name="navigation_drawer_close">إغلاق درج التنقل</string>
+    <string name="navigation_drawer_open">فتح درج التنقل</string>
+    <string name="remove_sys_app_chkbox">لا تظهر مرة أخرى</string>
+    <string name="remove_sys_app_message">بعد إزالة تطبيقات النظام قد تضطر إلى إعادة تشغيل الجهاز</string>
+    <string name="search_hint">جار البحث …</string>
+    <string name="send_message">التطبيق الجيد لإزالة التطبيقات لا حاجة</string>
+    <string name="send_title">ترسل عبر</string>
+    <string name="settings_empty">إعدادات القسم في حين فارغة</string>
+    <string name="share_title">شارك عبر</string>
+    <string name="menu_other_apps">تطبيقات أخرى</string>
+    <string name="wiki_url">https://android-tools.ru/en/system-app-manager-en/</string>
+    <string name="error_missing_browser">الرجاء تثبيت التطبيق لعرض صفحات الويب</string>
+    <string name="error_missing_market">الرجاء تثبيت متجر التطبيقات</string>
+</resources>

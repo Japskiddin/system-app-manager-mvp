@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Менеджер системных приложений</string>
+    <string name="navigation_drawer_open">Открыть панель навигации</string>
+    <string name="navigation_drawer_close">Закрыть панель навигации</string>
+    <string name="menu_system">Системные</string>
+    <string name="menu_settings">Настойки</string>
+    <string name="menu_installed">Установленные</string>
+    <string name="delete">удалить</string>
+    <string name="clear">очистить</string>
+    <string name="search_hint">Поиск…</string>
+    <string name="loading">Загрузка…</string>
+    <string name="deleting">Удаление</string>
+    <string name="remove_sys_app_message">После удаления системных приложений может потребоваться перезагрузка устройства</string>
+    <string name="remove_sys_app_chkbox">Не показывать больше</string>
+    <string name="menu_share">Поделиться</string>
+    <string name="menu_send">Отправить</string>
+    <string name="menu_communicate">Общение</string>
+    <string name="app_name_label">Удалить</string>
+    <string name="common_warning">Предупреждение</string>
+    <string name="common_i_know">Я знаю</string>
+
+    <string name="root_help_title">Помощь по root-правам</string>
+
+    <string name="share_title">Поделиться с помощью</string>
+    <string name="send_title">Отправить с помощью</string>
+    <string name="settings_empty">Раздел Настройки пока пустой</string>
+    <string name="send_message">Хорошее приложение для удаления не нужных приложений</string>
+    <string name="system_app_no_root_access">Для удаления системных приложений необходимы права суперпользователя, удостоверьтесь, что ваше устройство имеет их и дайте разрешение для данного приложения</string>
+    <string name="menu_other_apps">Другие приложения</string>
+    <string name="wiki_url">https://android-tools.ru/system-app-manager/</string>
+    <string name="error_missing_market">Пожалуйста, установите магазин приложений</string>
+    <string name="error_missing_browser">Пожалуйста, установите приложение для просмотра веб-страниц</string>
+</resources>

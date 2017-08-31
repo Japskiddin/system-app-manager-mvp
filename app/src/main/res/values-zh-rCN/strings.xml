@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">系统程序安全卸载器</string>
+    <string name="common_warning">警告</string>
+    <string name="system_app_no_root_access">此功能需要root权限才能使用，请确保您的手机已经root，并且已经赋予我们root权限！</string>
+    <string name="common_i_know">我知道了</string>
+    <string name="root_help_title">Root帮助</string>
+    <string name="app_name_label">删除</string>
+    <string name="clear">明确</string>
+    <string name="delete">删除</string>
+    <string name="deleting">卸载</string>
+    <string name="loading">正在加载...</string>
+    <string name="menu_communicate">通信</string>
+    <string name="menu_installed">已安装</string>
+    <string name="menu_send">发送</string>
+    <string name="menu_settings">设置</string>
+    <string name="menu_share">分享</string>
+    <string name="menu_system">系统</string>
+    <string name="navigation_drawer_close">关闭导航栏</string>
+    <string name="navigation_drawer_open">打开导航栏</string>
+    <string name="remove_sys_app_chkbox">不要再显示</string>
+    <string name="remove_sys_app_message">删除系统应用程序后，您可能必须重新启动设备</string>
+    <string name="search_hint">正在搜寻...</string>
+    <string name="send_message">好的应用程序可以删除不需要的应用</string>
+    <string name="send_title">通过发送</string>
+    <string name="settings_empty">设置部分为空</string>
+    <string name="share_title">分享通过</string>
+    <string name="menu_other_apps">其他应用</string>
+    <string name="wiki_url">https://android-tools.ru/en/system-app-manager-en/</string>
+    <string name="error_missing_browser">请安装应用程序以查看网页</string>
+    <string name="error_missing_market">请安装应用商店</string>
+</resources>

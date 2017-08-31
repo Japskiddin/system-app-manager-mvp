@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Odstranovač systémových aplikácií</string>
+    <string name="common_warning">Upozornenie</string>
+    <string name="system_app_no_root_access">pre odinštalovanie systémových aplikácií potrebujeme root povolenie, uistite sa že je vaše zariadenie rootnuté a povoľte root oprávnenie aplikácií</string>
+    <string name="common_i_know">OK</string>
+    <string name="root_help_title">Root info</string>
+    <string name="app_name_label">Odstrániť</string>
+    <string name="clear">jasný</string>
+    <string name="delete">Odstrániť</string>
+    <string name="deleting">Odinštalovanie</string>
+    <string name="loading">Načítava…</string>
+    <string name="menu_communicate">Komunikujte</string>
+    <string name="menu_installed">Inštalované</string>
+    <string name="menu_send">Odoslať</string>
+    <string name="menu_settings">nastavenie</string>
+    <string name="menu_share">zdieľam</string>
+    <string name="menu_system">Systém</string>
+    <string name="navigation_drawer_close">Zavrieť navigačnú zásuvku</string>
+    <string name="navigation_drawer_open">Otvorte navigačnú zásuvku</string>
+    <string name="remove_sys_app_chkbox">Nezobrazovať znovu</string>
+    <string name="remove_sys_app_message">Po odstránení systémových aplikácií budete musieť zariadenie reštartovať</string>
+    <string name="search_hint">Vyhľadávanie …</string>
+    <string name="send_message">Dobrá aplikácia na odstránenie nepotrebných aplikácií</string>
+    <string name="send_title">Odoslať cez</string>
+    <string name="settings_empty">Boşken ayarlar bölümü</string>
+    <string name="share_title">Zdieľať cez</string>
+    <string name="menu_other_apps">Iné aplikácie</string>
+    <string name="wiki_url">https://android-tools.ru/en/system-app-manager-en/</string>
+    <string name="error_missing_browser">Na zobrazenie webových stránok prosím nainštalujte aplikáciu</string>
+    <string name="error_missing_market">Nainštalujte prosím úložisko aplikácií</string>
+</resources>

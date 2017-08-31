@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">System App Safe Remover</string>
+    <string name="common_warning">Attenzione</string>
+    <string name="system_app_no_root_access">hai bisogno del root per disinstallare le app di sistema, accertati che la device sia rootata, e concedi il permesso superuser</string>
+    <string name="common_i_know">Lo so</string>
+    <string name="root_help_title">Root aiuto</string>
+    <string name="app_name_label">Elimina</string>
+    <string name="clear">chiaro</string>
+    <string name="delete">Elimina</string>
+    <string name="deleting">Disinstallazione</string>
+    <string name="loading">Caricamento in corso…</string>
+    <string name="menu_communicate">Comunicare</string>
+    <string name="menu_installed">Installato</string>
+    <string name="menu_send">Inviare</string>
+    <string name="menu_settings">impostazioni</string>
+    <string name="menu_share">Condividere</string>
+    <string name="menu_system">Sistema</string>
+    <string name="navigation_drawer_close">Chiudi il cassetto di navigazione</string>
+    <string name="navigation_drawer_open">Otwórz szufladę nawigacyjną</string>
+    <string name="remove_sys_app_chkbox">Non mostrarlo più</string>
+    <string name="remove_sys_app_message">Dopo aver rimosso le applicazioni di sistema, potrebbe essere necessario riavviare il dispositivo</string>
+    <string name="search_hint">Ricerca…</string>
+    <string name="send_message">Buona app per rimuovere le applicazioni non necessarie</string>
+    <string name="send_title">Invia via</string>
+    <string name="settings_empty">Sezione Impostazioni mentre è vuota</string>
+    <string name="share_title">Condividere tramite</string>
+    <string name="menu_other_apps">Altre applicazioni</string>
+    <string name="wiki_url">https://android-tools.ru/en/system-app-manager-en/</string>
+    <string name="error_missing_market">Installare l\'archivio di applicazioni</string>
+    <string name="error_missing_browser">Installare l\'applicazione per visualizzare le pagine web</string>
+</resources>

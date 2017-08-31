@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_installed"
+            android:icon="@drawable/ic_get_app_black_24dp"
+            android:title="@string/menu_installed" />
+        <item
+            android:id="@+id/nav_system"
+            android:icon="@drawable/ic_android_black_24dp"
+            android:title="@string/menu_system" />
+        <item
+            android:id="@+id/nav_wiki"
+            android:icon="@drawable/ic_live_help_black_24dp"
+            android:title="@string/wiki" />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_settings_applications_black_24dp"
+            android:title="@string/menu_settings" />
+    </group>
+
+    <item android:title="@string/menu_communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/menu_share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/menu_send" />
+            <item
+                android:id="@+id/nav_apps"
+                android:icon="@drawable/ic_shop_black_24dp"
+                android:title="@string/menu_other_apps" />
+        </menu>
+    </item>
+
+</menu>
