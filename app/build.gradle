@@ -28,7 +28,7 @@ android {
         applicationId "ru.androidtools.system_app_manager"
         minSdkVersion 14
         targetSdkVersion 26
-        versionCode 4
+        versionCode 3
         versionName "1.0.2"
         signingConfig signingConfigs.release
         vectorDrawables.useSupportLibrary = true // костыль векторов
